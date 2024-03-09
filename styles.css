@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+h1{
+		text-align:center;
+}
+a{
+	font-size:20px
+}
+.link{
+		font-size:33px;
+	font-weight:bold;
+	/* padding-bottom:20px; */
+}
+.belowlink{
+	font-size:18px
+}
+img{
+	height:200px
+}
